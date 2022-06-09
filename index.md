@@ -2,4 +2,4 @@
 title: "Rachel Girgis' Website :)"
 ---
 
-This website is about me ...
+This website is about me!!
